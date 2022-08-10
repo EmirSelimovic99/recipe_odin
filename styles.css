@@ -1,0 +1,58 @@
+/* Formation fuer den Titel */
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(60, 60, 146);
+    font-size: 150px;
+}
+/* Formation fuer die Liste */
+#liste {
+    
+    text-align: center;
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+/* Formation der Bilder auf der Homepage */
+  .main_img {
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 25px;
+    border-radius: 50%;
+  }
+  
+  /* Formation der Bilder auf den Webseiten */
+  .page_img {
+    float: right;
+    height: 500px;
+    width: auto;
+    border-radius: 15%;
+  }
+
+  .text_page {
+    text-align: center;
+  }
+
+  .page_list {
+    list-style: none;
+    
+  }
